@@ -1,0 +1,9 @@
+Intro
+
+git add doc.txt 
+
+git commit -m "adds intro heading"
+
+git status
+
+
